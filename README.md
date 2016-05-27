@@ -7,14 +7,5 @@ HARDWARE SETTINGS
 
 The most common version of NRF24L01 has eight pins, but you'll use only seven. 
 Before to conect it on your Arduino board, you should find the SPI pins of your board. In Arduino UNO (and similars) these pins are 11 (MOSI), 12 (MISO), 13 (SCK).
-If you are using a UNO board (or similar) make the conections below: 
-
->>>NRF24L01      Arduino 
->GND           GND
->3.3v          3.3v
->CE            9
->CSN           10
->MISO          11
->MOSI          12
->SCK           13
+If you are using a UNO board (or similar) conect the CE to 9, CSN to 10, MISO to 11, MOSI to 12, SCK to 13, GND to GND and 3.3V to 3.3V.
 
