@@ -1,7 +1,7 @@
 # Arduino-sending_and_receiving_strings
 It's an experience which shows how to make a simple communication between Arduino boards using the NRF24L01 transceiver.
 
-To the code work, you should add the library on udes_libraries folder on libraries folder of your Arduino IDE. 
+To the code work, you should add the library on used_libraries folder on libraries folder of your Arduino IDE. 
 
 HARDWARE SETTINGS
 
